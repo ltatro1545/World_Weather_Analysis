@@ -1,0 +1,64 @@
+City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
+0,Ushuaia,AR,55.69,few clouds,-54.8,-68.3,Albatros Hotel
+24,Punta Arenas,CL,53.71,broken clouds,-53.15,-70.9167,Hotel Dreams Del Estrecho
+35,Kaeo,NZ,55.76,scattered clouds,-35.1,173.7833,Bushido Lodge
+79,Canon City,US,50.92,clear sky,38.441,-105.2424,Travel Inn Motel
+94,Pacific Grove,US,51.91,clear sky,36.6177,-121.9166,Lovers Point Inn
+97,Santa Lucia,ES,58.32,scattered clouds,27.9117,-15.5407,Las Tirajanas
+103,Lebu,CL,58.19,clear sky,-37.6167,-73.65,Hostal Las Lilas
+130,Portland,US,52.39,overcast clouds,45.5234,-122.6762,Embassy Suites by Hilton Portland Downtown
+143,Duki,PK,56.71,clear sky,30.1541,68.5728,Bhari Dada Kaka Hotel
+162,Alcudia,ES,55.35,light rain,39.8532,3.1214,Zafiro Tropic
+169,Port Lincoln,AU,56.23,scattered clouds,-34.7333,135.8667,Port Lincoln Hotel
+171,Muroto,JP,50.36,clear sky,33.2833,134.15,Oota Ryokan
+177,Galateni,RO,51.62,scattered clouds,44.2167,25.35,Stix Hotel
+178,Durres,AL,59.18,broken clouds,41.3231,19.4414,Palace Hotel & Spa Durrës
+191,Effingham,US,55.58,clear sky,32.3669,-81.3332,Countryside Village
+202,Saucillo,MX,55.47,clear sky,28.0167,-105.2833,Hotel La Posada de San Judas Tadeo
+203,Algeciras,ES,58.77,few clouds,36.1333,-5.4505,AC Hotel by Marriott Algeciras
+223,Antibes,FR,53.08,clear sky,43.5624,7.1278,"ROYAL ANTIBES Luxury Hotel, Residence, Beach & Spa"
+237,Half Moon Bay,US,51.58,clear sky,37.4636,-122.4286,"The Ritz-Carlton, Half Moon Bay"
+241,Eufaula,US,55.83,broken clouds,31.8913,-85.1455,Days Inn by Wyndham Eufaula AL
+249,Jablanica,BA,53.67,overcast clouds,43.6603,17.7617,Motel Maksumić
+257,Porto Empedocle,IT,57.7,scattered clouds,37.2934,13.5264,Hotel dei Pini
+293,Rincon,US,55.58,few clouds,32.296,-81.2354,Days Inn Rincon
+295,Flinders,AU,59.09,overcast clouds,-34.5833,150.8552,Shellharbour Resort & Conference Centre
+313,Ancud,CL,58.53,clear sky,-41.8697,-73.8203,Hotel Arena Gruesa
+330,Lompoc,US,52.52,clear sky,34.6391,-120.4579,"Holiday Inn Express Lompoc, an IHG Hotel"
+351,Artyom,AZ,51.94,clear sky,40.4723,50.333,Merdan Respect
+355,Devonport,AU,50.18,scattered clouds,-41.1667,146.35,Gateway Hotel by Nightcap Plus
+359,Asau,RO,52.72,broken clouds,46.4333,26.4,Casa Mika Ciobanus
+384,Denia,ES,56.64,few clouds,38.8408,0.1057,Hotel Port Dénia
+385,Bella Vista,US,54.52,clear sky,36.4295,-94.2316,The Inn at Bella Vista
+389,Creston,US,53.04,scattered clouds,41.0586,-94.3614,Supertel Inn & Conference Center
+390,North Bend,US,53.51,overcast clouds,43.4065,-124.2243,Red Lion Hotel Coos Bay
+394,San Patricio,US,55.26,overcast clouds,28.017,-97.5169,"Motel 6 Sinton, TX"
+411,Shimoda,JP,55.76,clear sky,34.6667,138.95,Shimoda Tokyu Hotel
+425,Puerto Madryn,AR,58.8,clear sky,-42.7692,-65.0385,Hotel Tolosa
+428,Grosseto,IT,53.1,overcast clouds,42.8333,11.25,Almatoscana
+433,Bastrop,US,50.79,overcast clouds,32.7562,-91.8724,Best Budget Inn
+444,Bahia Blanca,AR,59.88,overcast clouds,-38.7196,-62.2724,Hotel Argos
+449,Coihaique,CL,53.55,broken clouds,-45.5752,-72.0662,Diego De Almagro Coyhaique
+471,Uyuni,BO,56.25,overcast clouds,-20.4597,-66.825,Hostal La Magia de Uyuni
+474,Dubrovnik,HR,58.64,broken clouds,42.6481,18.0922,Hotel Dubrovnik Palace
+500,Ucluelet,CA,50.31,light rain,48.9329,-125.5528,Black Rock Oceanfront Resort
+507,Linping,CN,57.15,overcast clouds,30.4225,120.2972,Super 8 Hangzhou Linping Subway Station
+535,Masyaf,SY,51.85,overcast clouds,35.0653,36.3406,Hotel restaurants and tourist Misyaf
+546,Buin,CL,57.63,clear sky,-33.7333,-70.75,Paihuen
+547,Nemea,GR,52.2,clear sky,37.8167,22.6667,villa Axiothea nemea
+552,Tateyama,JP,51.82,clear sky,34.9833,139.8667,Tateyama Seaside Hotel
+553,Vila Franca Do Campo,PT,59.41,scattered clouds,37.7167,-25.4333,Pestana Bahia Praia
+564,Luocheng,CN,50.92,overcast clouds,29.3848,104.0286,Luocheng Hotel
+583,Erzin,TR,55.92,overcast clouds,36.9559,36.2,Artemis Otel
+585,Falam,MM,51.53,few clouds,22.9167,93.6833,Falang Government Guesthouse
+599,Mugla,TR,59.67,light rain,37.2303,28.3557,Petek Hotel
+600,Abu Kamal,SY,59.83,few clouds,34.4506,40.9171,محطة التلفاز
+602,Gagra,GE,54.52,overcast clouds,43.3283,40.2239,Hotel KORSHIKOFF
+609,Nagato,JP,52.75,clear sky,34.3833,131.2,いそう庵
+623,Rawson,AR,57.78,clear sky,-43.3002,-65.1023,Hosteria Sampedro
+624,Houma,US,55.4,overcast clouds,29.5958,-90.7195,Courtyard by Marriott Houma
+631,Huilong,CN,58.42,overcast clouds,31.8111,121.655,Hilton Garden Inn Qidong
+643,Comodoro Rivadavia,AR,58.32,overcast clouds,-45.8667,-67.5,Austral Hotel
+650,Jaumave,MX,54.68,overcast clouds,23.4167,-99.3833,HOTEL CIENEGA
+669,Sulphur,US,57.18,overcast clouds,30.2366,-93.3774,Fairfield Inn & Suites by Marriott Lake Charles Sulphur
+678,Kilis,TR,50.23,overcast clouds,36.7161,37.115,Otel Kilis Mer-tur Otel Ve Mado Cafe
